@@ -8,5 +8,6 @@ namespace ProgramlamaYazProje
 {
     public class Address
     {
+        public int AddressId { get; set; }
     }
 }
